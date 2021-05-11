@@ -24,7 +24,7 @@ example for the GMC dataset
 	   
 after which you can change various parameters (see also USER INPUTS below)  in this **DC_pars.py**.
 
-3a) Make sure you CASA environment has been set up
+3a) Make sure your CASA environment has been set up
 
        execfile("/home/teuben/dc2019/scripts4paper/DC_locals.py")
 
